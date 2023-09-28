@@ -1,0 +1,33 @@
+.my-profile {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.my-profile h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.my-profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.my-profile p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.my-profile strong {
+    font-weight: bold;
+    color: #333;
+}
